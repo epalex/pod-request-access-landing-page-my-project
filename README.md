@@ -26,3 +26,8 @@ Users should be able to:
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
+## Work more on the following improvements
+
+### background image, mobile version
+- https://css-tricks.com/almanac/properties/b/background-blend-mode/
+ 
