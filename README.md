@@ -12,8 +12,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/epalex/pod-request-access-landing-page-my-project
+- Live Site URL: https://epalex.github.io/pod-request-access-landing-page-my-project/
 
 ## Built with
 
@@ -23,8 +23,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@epalex](https://www.frontendmentor.io/profile/epalex)
 
 ## Work more on the following improvements
 
