@@ -29,4 +29,7 @@ Users should be able to:
 
 ### background image, mobile version
 - https://css-tricks.com/almanac/properties/b/background-blend-mode/
- 
+
+### hover states
+
+### form error messages
