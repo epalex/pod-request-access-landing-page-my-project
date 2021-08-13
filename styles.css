@@ -91,3 +91,33 @@ footer {
     font-weight: 500;
     color: #C2CBE5;
 }
+
+.request-access {
+    width: 100%;
+}
+
+.submit-btn {
+    width: 100%;
+    border: none;
+    border-radius: 48px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 28px;
+    background-color: #54E6AF;
+    padding: 1rem 1.5rem;
+    margin-top: 16px;
+}
+
+#email {
+    width: 100%;
+    border: none;
+    border-radius: 48px;
+    font-size: 14px;
+    line-height: 28px;
+    background-color: #2C344B;
+    padding: 1rem 1.5rem;
+}
+
+input::placeholder {
+    color: white;
+}
