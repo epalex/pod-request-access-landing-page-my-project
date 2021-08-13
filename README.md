@@ -27,9 +27,11 @@ Users should be able to:
 
 ## Work more on the following improvements
 
-### background image, mobile version
+#### background image, mobile version
 - https://css-tricks.com/almanac/properties/b/background-blend-mode/
 
-### hover states
+#### hover states
 
-### form error messages
+#### form error messages
+
+#### background image positioning in tablet and desktop views combined with the dark background color
